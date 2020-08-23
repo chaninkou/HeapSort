@@ -1,10 +1,10 @@
-package bits;
+package leetcode338;
 
 import java.util.Arrays;
 
 public class Main {
 	public static void main(String[] args) {
-		int num = 15;
+		int num = 5;
 		
 		System.out.println("Input: " + num);
 		

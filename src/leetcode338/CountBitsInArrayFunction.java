@@ -1,4 +1,4 @@
-package bits;
+package leetcode338;
 
 public class CountBitsInArrayFunction {
     public int[] countBits(int num) {
