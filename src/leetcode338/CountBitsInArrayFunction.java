@@ -1,6 +1,7 @@
 package leetcode338;
 
 public class CountBitsInArrayFunction {
+	// Dp
     public int[] countBits(int num) {
         int[] dp = new int[num + 1];
         
